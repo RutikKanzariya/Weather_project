@@ -39,6 +39,17 @@ Weather_project/
     └── secrets.toml
 ```
 
+## Application Screenshot
+
+### Home Page
+![Home Page](images/home_page.png)
+
+### Weather Result
+![Weather Result](images/weather_result.png)
+
+### Live DEMO
+https://weatherproject-ewz6jmvujv7wspgmb7nsvz.streamlit.app/
+
 ## 📦 Installation
 
 ### Clone the Repository
